@@ -36,6 +36,10 @@ conda env create -f environment.yml
 conda activate SiT
 ```
 
+```
+#upgrade to cuda pytorch
+```
+
 
 ## Sampling [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/willisma/SiT/blob/main/run_SiT.ipynb)
 ![More SiT samples](visuals/visual_2.png)
